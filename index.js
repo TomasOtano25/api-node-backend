@@ -1,5 +1,13 @@
+import "dotenv/config";
+import "./database/connectdb.js";
 import express from "express";
 
 const app = express();
 
-app.listen(5000, () => console.log("Llamas"));
+app.get("/", (req, res) => {
+  res.json({ ok: true });
+});
+
+const PORT = process.env.PORT || 5000;
+
+app.listen(PORT, () => console.log("🔥🔥🔥http://localhost:" + PORT));

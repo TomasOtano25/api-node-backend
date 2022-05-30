@@ -1,4 +1,6 @@
-# Projecto de API con node
+# Projecto de API con node (API RES tranajo en clases)
+
+- Proyecto que hicimo en clases en vivo
 
 ### Comandos
 
@@ -11,4 +13,5 @@ npm i bcryptjs cookie-parser cors dotenv express express-validator jsonwebtoken 
 
 ```
 npm run dev
+
 ```
