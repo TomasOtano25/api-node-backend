@@ -1,4 +1,4 @@
-# Projecto de API con node (API RES tranajo en clases)
+# Projecto de API con node (API RES trabajando en clases)
 
 - Proyecto que hicimo en clases en vivo
 
